@@ -1,0 +1,126 @@
+@media (max-width: 739px) {
+  .header_note a {
+    line-height: 40px;
+    font-size: 8px;
+  }
+  #header_start {
+    display: none;
+  }
+  .header_mobile-container {
+    margin: 20px auto;
+  }
+  .header_navbar {
+    display: none;
+  }
+  .header_option {
+    display: none;
+  }
+  .header_heading {
+    display: flex;
+    justify-content: center;
+    top: 55%;
+    text-align: center;
+  }
+  .header_heading h2 {
+    font-size: 14px;
+    line-height: 28px;
+    width: 180px;
+  }
+  .header-heading-seacrh {
+    color: #c354af;
+    width: 50%;
+    height: 50px;
+  }
+  .header-heading-seacrh-tiltle {
+    color: #9e1184;
+    font-size: 16px;
+  }
+  .content_discover {
+    padding: 0;
+    margin: 0;
+  }
+  .discover_heading {
+    font-size: 20px;
+    margin-left: 25px;
+  }
+  .discover_where-heading {
+    font-size: 12px;
+  }
+  .discover_where {
+    overflow: hidden;
+  }
+  .discover_where-item {
+    margin: 10px 15px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .content_anywhere {
+    padding: 0;
+  }
+  .any_where-heading h1 {
+    font-size: 20px;
+    text-align: center;
+  }
+  .any_where {
+    flex-direction: column;
+    align-items: center;
+  }
+  .content_share {
+    padding: 0;
+  }
+  .content_share-container {
+    padding-top: 127%;
+    background: url("https://a0.muscache.com/im/pictures/791aba62-2de8-4722-99b5-45838715eb34.jpg?im_w=320")
+      center no-repeat;
+    background-size: cover;
+  }
+  .share_tiltle {
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+  .share_heading {
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: 20px;
+  }
+  .share_decription {
+    font-size: 16px;
+    margin: 12px 24px;
+  }
+  .share_navigation {
+    margin: 20px auto;
+  }
+  .share_btn {
+    padding: 7px 9px;
+  }
+  .content_exp {
+    padding: 0;
+  }
+  .exp_heading {
+    font-size: 20px;
+    text-align: center;
+  }
+  .exp_active {
+    flex-direction: column;
+  }
+  .exp_active-item {
+    width: 90%;
+    margin: 10px auto;
+    padding-right: 0;
+  }
+  .footer_around {
+    padding: 0;
+  }
+  .footer_grid {
+    display: none;
+  }
+  .footer_info-list,
+  .footer_social-list {
+    flex-direction: column;
+  }
+  .footer_social-list {
+    justify-content: space-between;
+    align-items: center;
+  }
+}
